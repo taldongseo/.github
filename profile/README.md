@@ -1,8 +1,7 @@
 # 환영합니다 👋
 
 ## 탈(䫄)동서
-![자산 1](https://user-images.githubusercontent.com/10491607/186138453-80ce4c40-3533-4f81-922a-f94d1018fa41.svg)
-
+![Team TDS Logo](https://user-images.githubusercontent.com/10491607/186138863-c7ddf6ed-5301-4b0b-b380-081715c199af.png)
 
 탈동서는 동서대학교를 재학또는 졸업한 학생들의 모임입니다.
 

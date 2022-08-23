@@ -25,8 +25,10 @@
 + 게임 개발 프로젝트 (NEM-X Project)
 
 ## 연락
-혹시 팀에 참여해서 더 나은 디자이너 ! 더 뛰어난 개발자 !! 가 되고 싶다면 아래 연락처로 연락 주세요.  
+혹시 팀에 참여해서 더 나은 디자이너 ! 더 뛰어난 개발자 !!
+가 되고 싶다면 아래 연락처로 연락 주세요.  
+
 📲 010-7923-1428  
-[📨 오픈 카카오톡](https://)  
+[📨 오픈 카카오톡](https://open.kakao.com/me/karriz_)  
 :email: karriz@xymbool.com   
 [:bird: 트위터](https://twitter.com/Karriz_)
